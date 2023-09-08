@@ -1,8 +1,22 @@
-# Hi there 👋
+# Olá, sou o Marlon 👋
 
-### I'm Marlon, computer science student at [UTFPR](http://portal.utfpr.edu.br) 
-  
-## Connect with me  
+Eu sou estudante de Ciëncia da Computação na [UTFPR](http://portal.utfpr.edu.br)
+
+e desenvolvedor Backend e DevOps na [Lar](https://www.lar.ind.br)
+
+---
+
+Eu sou viciado em Duolingo :)
+
+<!-- duolingo -->
+
+
+
+
+
+
+
+### redes sociais
 <div>
 <a href="https://github.com/marlonangeli" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
